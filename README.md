@@ -6,6 +6,7 @@
 
 [![Build Status](https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon)](http://www.tisv.cn/) [![GitHub stars](http://www.tisv.cn/img/givemeastar.png)](https://github.com/AITutorials/)
 
+---
 
 ## 数据集说明
 
@@ -16,29 +17,24 @@
 
 ## 精选数据集
 
----
 
-**针对核能推文的情感分析**
+#### 针对核能推文的情感分析
 
-```
 该数据集是与核能相关的推文集合，以及人们对推文情绪的评估。可能的情感类别是："积极"，"消极"，"中立"，"与核能无关的推文"和"我不知道"。我们还提供了每个类别的可能性，可用于识别其情绪可能不清楚的推文。   
-```
 
 **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/1377191648_sentiment_nuclear_power.csv)**
 
 ---
 
-**图像情感极性分类**
+#### 图像情感极性分类
 
-```
 该数据集提供15000张图像对应的URL, 按照绝对正向, 正向, 中立, 负向, 绝对负向五个情感程度对图像进行分类。
-```
 
 **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/image-Sentiment-polarity-DFE.csv)** 
 
 ---
 
-**确定两个英文句子是否相关**
+#### 确定两个英文句子是否相关
 
 ```
 该数据集是英语句子对的集合。用数字1到5表示句子的意义相关程度, 同时还有两个句子随人群判断的差异程度。  
