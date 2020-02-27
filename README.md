@@ -6,11 +6,10 @@
 
 [![Build Status](https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon)](http://www.tisv.cn/) [![GitHub stars](http://www.tisv.cn/img/givemeastar.png)](https://github.com/AITutorials/)
 
----
 
 ## 数据集说明
 
-「OrangeStar」将为您精选世界范围内的典型AI数据集和数据网站，您可以直接下载使用它们。以下每个数据集均已根据[知识共享署名4.0国际许可协议](http://creativecommons.org/licenses/by/4.0/)获得许可。如果您下载则代表同意相关的许可条款。每个数据集均按“原样”提供，并且不作任何明示或暗示的保证。
+我们将为您精选世界范围内的典型AI数据集和数据网站，您可以直接下载使用它们。以下每个数据集均已根据[知识共享署名4.0国际许可协议](http://creativecommons.org/licenses/by/4.0/)获得许可。如果您下载则代表同意相关的许可条款。每个数据集均按“原样”提供，并且不作任何明示或暗示的保证。
 
 ---
 
@@ -19,28 +18,32 @@
 
 ---
 
-* "针对核能推文的情感分析"
-	* 该数据集是与核能相关的推文集合，以及人们对推文情绪的评估。可能的情感类别是："积极"，"消极"，"中立"，"与核能无关的推文"和"我不知道"。我们还提供了每个类别的可能性，可用于识别其情绪可能不清楚的推文。   
+**针对核能推文的情感分析**
+
+该数据集是与核能相关的推文集合，以及人们对推文情绪的评估。可能的情感类别是："积极"，"消极"，"中立"，"与核能无关的推文"和"我不知道"。我们还提供了每个类别的可能性，可用于识别其情绪可能不清楚的推文。   
 
 **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/1377191648_sentiment_nuclear_power.csv)**
 
 ---
 
-!!! Example "图像情感极性分类"
-    该数据集提供15000张图像对应的URL, 按照绝对正向, 正向, 中立, 负向, 绝对负向五个情感程度对图像进行分类。	
-    **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/image-Sentiment-polarity-DFE.csv)** 
+**图像情感极性分类**
+该数据集提供15000张图像对应的URL, 按照绝对正向, 正向, 中立, 负向, 绝对负向五个情感程度对图像进行分类。
+
+**[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/image-Sentiment-polarity-DFE.csv)** 
 
 ---
 
-!!! Example "确定两个英文句子是否相关"
-    该数据集是英语句子对的集合。用数字1到5表示句子的意义相关程度, 同时还有两个句子随人群判断的差异程度。  
-    **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/1377882923_sentence_pairs.csv)**
+**确定两个英文句子是否相关**
+该数据集是英语句子对的集合。用数字1到5表示句子的意义相关程度, 同时还有两个句子随人群判断的差异程度。  
+
+**[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/1377882923_sentence_pairs.csv)**
 
 ---
 
-!!! Example "生物医学影像相关类型数据"
-    以下数据集给出大量图像的URL连接, 这些图像都是与生物医学相关并带有标签, 共分为以下五种：放射学（MRI，X射线等），可见光摄影（皮肤，器官等的图片），打印的信号和波形（肌电图等），显微镜（各种显微图像），通用生物医学插图（表格，图表，图形，草图等）。	
-    **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/DFE-Biomedical-Images.csv)**
+**生物医学影像相关类型数据**
+以下数据集给出大量图像的URL连接, 这些图像都是与生物医学相关并带有标签, 共分为以下五种：放射学（MRI，X射线等），可见光摄影（皮肤，器官等的图片），打印的信号和波形（肌电图等），显微镜（各种显微图像），通用生物医学插图（表格，图表，图形，草图等）。	
+
+**[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/DFE-Biomedical-Images.csv)**
 
 
 
