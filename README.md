@@ -6,12 +6,11 @@
 
 [![Build Status](https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon)](http://www.tisv.cn/) [![GitHub stars](http://www.tisv.cn/img/givemeastar.png)](https://github.com/AITutorials/)
 
+---
 
-## 数据集
+## 数据集说明
 
-!!! note "说明"
-    「OrangeStar」将为您精选世界范围内的典型AI数据集和数据网站，您可以直接下载使用它们。
-    以下每个数据集均已根据[知识共享署名4.0国际许可协议](http://creativecommons.org/licenses/by/4.0/)获得许可。如果您下载则代表同意相关的许可条款。每个数据集均按“原样”提供，并且不作任何明示或暗示的保证。
+「OrangeStar」将为您精选世界范围内的典型AI数据集和数据网站，您可以直接下载使用它们。以下每个数据集均已根据[知识共享署名4.0国际许可协议](http://creativecommons.org/licenses/by/4.0/)获得许可。如果您下载则代表同意相关的许可条款。每个数据集均按“原样”提供，并且不作任何明示或暗示的保证。
 
 ---
 
@@ -20,9 +19,10 @@
 
 ---
 
-!!! Example "针对核能推文的情感分析"
-    该数据集是与核能相关的推文集合，以及人们对推文情绪的评估。可能的情感类别是："积极"，"消极"，"中立"，"与核能无关的推文"和"我不知道"。我们还提供了每个类别的可能性，可用于识别其情绪可能不清楚的推文。   
-    **[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/1377191648_sentiment_nuclear_power.csv)**
+* "针对核能推文的情感分析"
+	* 该数据集是与核能相关的推文集合，以及人们对推文情绪的评估。可能的情感类别是："积极"，"消极"，"中立"，"与核能无关的推文"和"我不知道"。我们还提供了每个类别的可能性，可用于识别其情绪可能不清楚的推文。   
+
+**[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/1377191648_sentiment_nuclear_power.csv)**
 
 ---
 
