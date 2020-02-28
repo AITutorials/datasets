@@ -84,3 +84,16 @@ FigureEight 为整个数据科学社区提供经典的综合性数据集, 在这
 **[进入网站](https://www.figure-eight.com/datasets/)**
 
 ---
+
+## 其他资源
+
+* [Solutions(集成世界范围内重要AI技术解决方案！)](https://github.com/AITutorials/solutions)
+
+* [Examples(展示AI实战教程中的示例！)](https://github.com/AITutorials/examples)
+
+* [Cooperation(寻求更多资源与合作伙伴！)](https://github.com/AITutorials/cooperation)
+
+
+---
+
+
