@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------------
 
 
-[![Build Status](http://www.tisv.cn/img/badge.svg)](http://www.tisv.cn/) [![GitHub stars](http://www.tisv.cn/img/givemeastar.png)](https://github.com/AITutorials/)
+[![Build Status](http://www.tisv.cn/img/badge.svg)](http://www.tisv.cn/) 
 
 ---
 
