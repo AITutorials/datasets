@@ -58,6 +58,18 @@
 
 ---
 
+
+#### 《时代》杂志封面的性别区分
+
+从1920年开始，采集并展示所有《时代》杂志封面的图像，并要求对他们进行性别划分。
+
+
+**[点击下载](https://d1p17r2m4rzlbo.cloudfront.net/wp-content/uploads/2016/03/TIME_Gender_Ratio.csv)**
+
+
+---
+
+
 ## 精选数据网站
 
 
@@ -82,6 +94,15 @@ DatasetList 是综合性数据集合网站, 在这里你将发现NLP, CV, Audio�
 FigureEight 为整个数据科学社区提供经典的综合性数据集, 在这里你将可以查看和下载足够大的数据集以进行模型训练，如: 医学信息提取, 旧金山停车标志检测等。		
 
 **[进入网站](https://www.figure-eight.com/datasets/)**
+
+---
+
+#### Kaggle
+
+Kaggele 作为以机器学习竞赛而享誉全球的站点，它仍然对外提供并征集免费的数据资源，如：具有300万条记录的美国事故数据集，2019冠状病毒数据集等。
+
+
+**[进入网站](https://www.kaggle.com/datasets/)**
 
 ---
 
