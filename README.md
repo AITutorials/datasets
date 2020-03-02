@@ -132,7 +132,7 @@ Kaggele 作为以机器学习竞赛而享誉全球的站点，它仍然对外提
 
 ### 致谢
 
-感谢以下机构或站点提供的人工智能工具和参考学习资料。
+感谢以下机构或站点提供的人工智能工具和参考学习资料。所有人可以通过点击下方图片阅读免费电子书籍或访问这些机构的官方站点。
 
 
 | [![avatar](http://ai.tisv.cn/img/book11.png)](https://livebook.manning.com/book/deep-learning-with-python/) | [![avatar](https://i.loli.net/2020/03/02/BamPRHhlubEe672.png)](https://www.deeplearningbook.org/contents/TOC.html) | [![avatar](http://ai.tisv.cn/img/book13.png)](http://neuralnetworksanddeeplearning.com/)|
