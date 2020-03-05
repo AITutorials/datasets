@@ -112,6 +112,23 @@ Kaggele 作为以机器学习竞赛而享誉全球的站点，它仍然对外提
 
 ---
 
+#### 5. TFDS
+
+TFDS 全称Tensorflow Datasets，由tensorflow团队提供的综合数据集工具，截止到2020年3月，共包含数据集155个，类型包括：文本，图片，视频，语音，结构化表格等AI基线数据集，当然除了提供下载外，它也包括许多数据集处理方法。
+
+**[进入网站](https://https//tensorflow.google.cn/datasets/catalog/overview?hl=zh-cn)**
+
+---
+
+#### 6. TorchVision
+
+pytorch中的视觉工具包，除了包括一些视觉处理工具和模型，通过它也可以下载24种(截止到2020年3月)最常用的视觉数据集，例如：COCO，MNIST，VOC，FakeData等。
+
+**[进入网站](https://pytorch.org/docs/stable/torchvision/index.html?highlight=torchvision#module-torchvision)**
+
+
+---
+
 ### [查看更多数据网站>>>](http://ai.tisv.cn/#_2)
 
 
