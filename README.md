@@ -152,7 +152,7 @@ pytorch中的视觉工具包，除了包括一些视觉处理工具和模型，�
 感谢以下机构或站点提供的人工智能工具和参考学习资料。所有人可以通过点击下方图片阅读免费电子书籍或访问这些机构的官方站点。
 
 
-| [![avatar](http://ai.tisv.cn/img/book11.png)](https://livebook.manning.com/book/deep-learning-with-python/) | [![avatar](https://i.loli.net/2020/03/02/BamPRHhlubEe672.png)](https://www.deeplearningbook.org/contents/TOC.html) | [![avatar](http://ai.tisv.cn/img/book13.png)](http://neuralnetworksanddeeplearning.com/)|
+| [![avatar](http://ai.tisv.cn/img/book11.png)](https://livebook.manning.com/book/deep-learning-with-python/) | [![avatar](http://ai.tisv.cn/img/book12.png)](https://www.deeplearningbook.org/contents/TOC.html) | [![avatar](http://ai.tisv.cn/img/book13.png)](http://neuralnetworksanddeeplearning.com/)|
 | ---- | ---- | ---- |
 | [![avatar](http://ai.tisv.cn/img/t1.png)](https://tensorflow.google.cn/) |  [![avatar](http://ai.tisv.cn/img/t2.png)](https://pytorch.org/) | [![avatar](http://ai.tisv.cn/img/t3.png)](https://keras.io/) |
 
