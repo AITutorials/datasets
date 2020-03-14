@@ -1,4 +1,4 @@
-针对AI学习者提供优质资源.
+针对AI学习者提供优质资源.      
 Provide better resources for AI learners.
 ![Logo](http://www.tisv.cn/img/logo.png)
 
