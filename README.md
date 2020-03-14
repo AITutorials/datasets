@@ -1,5 +1,4 @@
-针对AI学习者提供优质资源.      
-Provide better resources for AI learners.
+为AI学习者提供优质资源.      
 
 
 
