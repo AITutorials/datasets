@@ -1,9 +1,10 @@
-为AI学习者提供优质资源.      
-
-
 
 ![Logo](http://www.tisv.cn/img/logo.png)
 [![Build Status](http://www.tisv.cn/img/badge.svg)](http://www.tisv.cn/) 
+
+
+为AI学习者提供优质资源.      
+
 
 ---
 
