@@ -78,7 +78,7 @@ pytorch中的视觉工具包，除了包括一些视觉处理工具和模型，�
 
 * [Solutions(集成世界范围内重要AI技术解决方案)](https://github.com/AITutorials/solutions)
 
-* [Examples(展示AI实战教程中的示例)](https://github.com/AITutorials/examples)
+* [Manuals(解析真实企业的AI面试问题！)](https://github.com/AITutorials/examples)
 
 * [Papers(解析来自SOTA的高品质AI论文)](https://github.com/AITutorials/cooperation)
 
