@@ -80,7 +80,7 @@ pytorch中的视觉工具包，除了包括一些视觉处理工具和模型，�
 
 * [Examples(展示AI实战教程中的示例)](https://github.com/AITutorials/examples)
 
-* [Papers(解析来自SOTA的经典论文)](https://github.com/AITutorials/cooperation)
+* [Papers(解析来自SOTA的高品质AI论文)](https://github.com/AITutorials/cooperation)
 
 
 ---
