@@ -68,10 +68,64 @@ pytorch中的视觉工具包，除了包括一些视觉处理工具和模型，�
 
 ---
 
-### [查看更多数据网站>>>](http://ai.tisv.cn/#_1)
+#### 7. TorchText
+
+pytorch中的视觉工具包，除了包括一些视觉处理工具和模型，通过它也可以下载24种(截止到2020年3月)最常用的视觉数据集，例如：COCO，MNIST，VOC，FakeData等。
+
+**[进入网站](https://pytorch.org/text/datasets.html)**
 
 
 ---
+
+#### 8. TorchAudio
+
+pytorch中的语音工具包，除了包括一些语音处理工具和模型，通过它也可以下载4种(截止到2020年3月)最常用的语音数据集，如：COMMONVOICE，LIBRISPEECH，VCTK，YESNO。
+
+**[进入网站](https://pytorch.org/audio/datasets.html#librispeech)**
+
+
+---
+
+#### 9. Anki
+
+Anki机器翻译数据站点几乎包含所有主流语言对英文的翻译，这些数据集能测试不同机器翻译模型效果，如果你正在从事这方面的研究，它将对你意义非凡。
+
+**[进入网站](http://www.manythings.org/anki/)**
+
+
+---
+
+#### 10. AwesomeDatasets
+
+GitHub上获得星数最多的数据集项目，它同样是一个数据集向导，包括几乎所有类型的数据集！
+
+**[进入网站](https://github.com/awesomedata/awesome-public-datasets)**
+
+---
+
+#### 11.  OpenSLR
+
+OpenSLR是一个致力于托管语音和语言资源的网站，例如用于语音识别的训练语料库以及与语音识别有关的软件。让任何人都可以方便地放置他们创建的资源和公开下载它们。
+
+**[进入网站](http://www.openslr.org/resources.php)**
+
+
+---
+
+#### 12. CelebA
+
+CelebA拥有大规模的人脸标准数据集，共有202,599张人脸图像，由香港中文大学多媒体实验室提供。
+
+**[进入网站](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)**
+
+
+---
+
+#### 13. CLUECorpus2020
+
+这是中文语言理解测评基准的数据集，它已经被用于大量主流NLP模型的中文测试，其中包括：8G的新闻语料，3G的社区互动-语料，1.1G维基百科-语料，2.3G评论数据-语料
+
+**[进入网站](https://github.com/CLUEbenchmark/CLUE)**
 
 ---
 
