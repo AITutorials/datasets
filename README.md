@@ -134,7 +134,7 @@ CelebA拥有大规模的人脸标准数据集，共有202,599张人脸图像，�
 
 * [Solutions(集成世界范围内重要AI技术解决方案)](https://github.com/AITutorials/solutions)
 
-* [Manuals(解析真实企业的AI面试问题)](https://github.com/AITutorials/examples)
+* [Experience(分享流行开源项目的贡献经验)](https://github.com/AITutorials/examples)
 
 * [Papers(解析来自SOTA的高品质AI论文)](https://github.com/AITutorials/cooperation)
 
